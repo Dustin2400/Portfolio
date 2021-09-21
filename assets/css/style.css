@@ -1,0 +1,109 @@
+:root {
+    --lightest: #0cf574;
+    --light: #15e6cd;
+    --medium: #0bc9cd;
+    --dark: #2f97c1;
+    --darkest: #172a3a;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    background-color: var(--darkest);
+    color: white;
+    padding: 50px 20px 30px;
+    font-size: 45px;
+}
+
+.intro {
+    margin: 0;
+}
+
+.neon {
+    margin: 0;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    width: 700px;
+    background-image: linear-gradient(160deg, #0cf547, #15e6cd, #2f97c1);
+}
+
+.works {
+    background-image: linear-gradient(160deg, #0cf547, #15e6cd, #2f97c1);
+}
+
+.works h2 {
+    text-align: center;
+    color: var(--darkest);
+    
+    width: 100%;
+    margin: 0;
+    padding: 50px 0;
+    font-size: 35px;
+}
+
+.works-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.full {
+    width: 100%;
+    text-align:center;  
+}
+
+.half {
+    width: 50%;
+    text-align: center;
+}
+
+.run-buddy {
+    width: 100%;
+    background-image: url("../images/hero-bg.jpg");
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: #fce138;
+    text-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 85px 0;
+    text-decoration: none;
+    background-size: cover;
+    background-position: bottom;
+    border-top-right-radius: 25% 100%;
+    border-bottom-left-radius: 25% 100%;
+}
+
+.horiseon {
+    color: white;
+    background-color: #557686;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    padding: 85px 0;
+    border-top-left-radius: 50% 100%;
+    border-bottom-right-radius: 50% 100%;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.seo {
+    color: #d9dcd6;
+}
+
+.malcolm-esque {
+    color: white;
+    background-color: #553d36;
+    font-family: 'lucida handwriting', 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: bold;
+    padding: 85px 0;
+    border-top-right-radius: 50% 100%;
+    border-bottom-left-radius: 50% 100%;
+    text-decoration: none;
+}
