@@ -97,11 +97,13 @@ header {
 }
 
 .malcolm-esque {
-    color: white;
-    background-color: #553d36;
-    font-family: 'lucida handwriting', 'Times New Roman', Times, serif;
+    background-image: url("../images/ionic.jpg");
+    background-size: cover;
+    background-position: center center;
+    font-family: 'gill sans', 'Times New Roman', Times, serif;
+    color: #a4bef3;
+    text-shadow: 0px 0px 5px #553d36;
     font-size: 60px;
-    font-weight: bold;
     padding: 85px 0;
     border-top-right-radius: 50% 100%;
     border-bottom-left-radius: 50% 100%;
