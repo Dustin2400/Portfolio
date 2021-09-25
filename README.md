@@ -3,13 +3,13 @@
 ## Purpose
 Show websites I have designed for exposition.
 
-##Built With
+## Built With
 
 *HTML
 *CSS
 
-##Website
+## Website
 
 https://dustin2400.github.io/Portfolio/
 
-Made with heart by Dustin Grijalva
+Made with ❤️ by Dustin Grijalva
