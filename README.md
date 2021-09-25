@@ -5,8 +5,8 @@ Show websites I have designed for exposition.
 
 ## Built With
 
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 
