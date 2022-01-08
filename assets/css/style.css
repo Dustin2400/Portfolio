@@ -76,36 +76,28 @@ h1 {
     text-align: center;
 }
 
-.run-buddy {
+.MyBrary {
     width: 100%;
-    background-image: url("../images/hero-bg.jpg");
-    font-family: Helvetica, Arial, sans-serif;
-    font-weight: bold;
-    font-size: 60px;
-    color: #fce138;
+    background-color: #2f97c1;
+    font-family: 'brush script mt', 'book antiqua', serif;
+    font-size: 110px;
+    color: #001242;
     text-shadow: 0 0 10px rgba(0,0,0,0.5);
-    padding: 85px 0;
+    padding: 60px 0;
     text-decoration: none;
-    background-size: cover;
-    background-position: bottom;
     border-top-right-radius: 25% 100%;
     border-bottom-left-radius: 25% 100%;
 }
 
-.horiseon {
-    color: white;
-    background-color: #8197a1;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 60px;
-    padding: 85px 0;
+.the-technocracy {
+    color: #ff7b00;
+    background-color: #020122;
+    font-family: 'arial black', Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding: 45px 0;
     border-top-left-radius: 50% 100%;
     border-bottom-right-radius: 50% 100%;
     text-decoration: none;
-    font-weight: bold;
-}
-
-.seo {
-    color: #d9dcd6;
 }
 
 .malcolm-esque {
@@ -196,6 +188,11 @@ h1 {
         text-align: center;
     }
 
+    .the-technocracy {
+        border-top-left-radius: 25% 100%;
+        border-bottom-right-radius: 25% 100%;
+    }
+    
     .neon {
         width: 70%;
         margin: 0 auto;
@@ -212,7 +209,7 @@ h1 {
     header {
         font-size: 35px;
     }
-    
+
     .neon {
         width: 80%;
     }
