@@ -50,6 +50,7 @@ h1 {
     background-image: linear-gradient(160deg, var(--lightest), var(--light), var(--dark));
 }
 
+
 .works h2 {
     text-align: center;
     color: var(--darkest);
