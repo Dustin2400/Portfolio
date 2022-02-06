@@ -1,0 +1,473 @@
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+header {
+  background-color: #170a1c;
+  color: white;
+  font-size: 45px;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.neon {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(160deg, #c19ab7, #9c95dc, #228cdb, #0b7189);
+  margin-top: 0;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  padding: 0 40px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+li {
+  margin: 0 15px 50px;
+  color: #228cdb;
+  cursor: pointer;
+  font-weight: 675;
+}
+
+ul {
+  margin: 0 auto;
+}
+
+.selected {
+  color: #c19ab7;
+}
+
+main {
+background: linear-gradient(160deg, #c19ab7, #9c95dc, #228cdb, #0b7189);
+padding: 40px;
+}
+
+h2 {
+  color:#170a1c;
+  margin: 0;
+  padding: 50px;
+  font-size: 35px;
+}
+
+.about-me {
+  display: flex;
+}
+
+.ya-boy {
+  height: 300px;
+  width: 300px;
+  padding: 20px 80px;
+  border-top-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+  display: inline;
+  object-fit: cover;
+}
+
+.blurb {
+  font-weight: 450;
+  font-size: 18px;
+  padding: 30px;
+  font-weight: 550;
+}
+
+.content {
+  margin: 20px;
+  background-color:#0b7189;
+  border: solid 4px #170a1c;
+  border-radius: 35px;
+}
+
+.works-container {
+  width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 0 150px;
+}
+
+p {
+    margin: 0;
+}
+
+.works-container div{
+  transition: all .5s ease-in-out;
+}
+
+.works-container div:hover {
+  box-shadow: 0px 0px 25px black;
+  transform: scale(1.1);
+}
+
+.works-container div:hover .github {
+  transition: all .5s ease-in-out;
+  opacity: 65%;
+}
+
+.github {
+  height: 100px;
+  opacity: 0%;
+  cursor: pointer;
+}
+
+.mybrary {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  background-color: #2f97c1;
+    font-family: 'brush script mt', 'book antiqua', serif;
+    font-size: 110px;
+    border: #001242 solid 5px;
+    color: #001242;
+    text-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 60px 0;
+    border-top-right-radius: 25% 100%;
+    border-bottom-left-radius: 25% 100%;
+}
+
+.mybrary a {
+  color: #001242;
+  text-decoration: none;
+}
+
+.mybrary .github {
+  opacity: 0%;
+  padding-left: 20px;
+}
+
+.the-technocracy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  text-align: center;
+    background-color: #020122;
+    font-family: 'arial black', Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    border-top-left-radius: 50% 100%;
+    border-bottom-right-radius: 50% 100%;
+}
+
+.the-technocracy a {
+  color: #ff7b00;
+  text-decoration: none;
+}
+
+.the-technocracy .github {
+  height: 50px;
+  padding-bottom: 75px;
+}
+
+.weather-dashboard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+  width: 50%;
+  text-align: center;
+  background-color: #3a0ca3;
+    font-family: 'impact', sans-serif;
+    font-size: 50px;
+    padding: 50px 0;
+    border-top-right-radius: 50% 100%;
+    border-bottom-left-radius: 50% 100%;
+}
+
+.weather-dashboard a {
+  color: #b5179e;
+  text-decoration: none;
+}
+
+.weather-dashboard .github {
+  padding-left: 20px;
+  height: 67px;
+}
+
+.lyrical-ta {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  background-color: #172a3a;
+    font-size: 65px;
+    padding: 85px 0;
+    text-decoration: none;
+    border-bottom-right-radius: 25% 100%;
+    border-top-left-radius: 25% 100%;
+    font-weight: bold;
+}
+
+.lyrical-ta a {
+  color: white;
+  text-decoration: none;
+}
+
+.lyrical-ta .github {
+  padding-left: 30px;
+}
+
+.malcolm-esque {
+  margin: auto 0;
+  width: 50%;
+  text-align: center;
+  background-image: url("./images/ionic.jpg");
+  background-size: cover;
+  background-position: center center;
+  font-family: 'gill sans', 'Times New Roman', Times, serif;
+  text-shadow: 0px 0px 5px #553d36;
+  font-size: 60px;
+  padding: 35px 0;
+  border-top-right-radius: 25% 100%;
+  border-bottom-left-radius: 50% 100%;
+  text-decoration: none;
+}
+
+.malcolm-esque a {
+  color: #a4bef3;
+  text-decoration: none;
+}
+
+.malcolm-esque .github {
+  height: 75px;
+}
+
+.run-buddy {
+  margin: auto 0;
+  width: 50%;
+  text-align: center;
+    background-image: url("./images/hero-bg.jpg");
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 35px 0;
+    background-size: cover;
+    background-position: bottom;
+    border-bottom-right-radius: 50% 100%;
+    border-top-left-radius: 50% 100%;
+}
+
+.run-buddy a {
+  color: #fce138;
+  text-decoration: none;
+}
+
+.run-buddy .github {
+  height: 75px;
+}
+
+form, .resume {
+  margin: 30px;
+  font-size: 20px;
+  font-weight: 650;
+  color: #c19ab7;
+  text-shadow: 0px 0px 10px #170a1c;
+}
+
+.resume a {
+  font-size: 20px;
+  font-weight: 650;
+  color: #c19ab7;
+  text-shadow: 0px 0px 10px #170a1c;
+  text-decoration: none;
+}
+
+
+.resume a:hover {
+  color: #9c95dc;
+}
+
+input, textarea {
+  margin: 5px;
+  font-size: 15px;
+}
+
+textarea {
+  height: auto;
+}
+
+.content label {
+  display: block;
+}
+
+button {
+  display: block;
+  background-color: #c19ab7;
+  border: solid #170a1c;
+  height: 50px;
+  width: 110px;
+  border-radius: 10px;
+  font-size: 20px;
+  color:#170a1c;
+  font-weight: 550;
+  cursor: pointer;
+}
+
+.error-text {
+  padding-bottom: 10px;
+}
+
+.skillRow {
+  display: flex;
+  justify-content: center;
+}
+
+.skillsContainer {
+  padding-bottom: 30px;
+}
+
+.skillsContainer img {
+  height: 150px;
+  width: 150px;
+  margin: 15px 18px;
+  padding: 10px;
+}
+
+.skill {
+  position: relative;
+  transition: all .5s ease-in-out;
+}
+
+.skill:hover {
+  transform: scale(1.1);
+}
+
+.skill:hover p {
+  opacity: 100%;
+  transition: all .5s ease-in-out;
+}
+
+.skill p{
+  text-shadow: 0px 0px 10px #170a1c;
+  font-weight: 650;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 55px;
+  color: #228cdb;
+  text-shadow: 0px 0px 7px #170a1c;
+  opacity: 0%;
+}
+
+.GraphQL img {
+  background-color: black;
+  border-radius: 50%;
+}
+.CSS p {
+  color: #170a1c;
+}
+.React p {
+  color: #170a1c;
+}
+.SQL p {
+  color: #170a1c;
+}
+.JQuery p {
+  color: #c19ab7;
+}
+
+footer {
+  background-color: #9c95dc;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+footer img {
+  opacity: 50%;
+  height: 100px;
+  margin: 20px;
+}
+
+footer img:hover {
+  opacity: 100%;
+}
+
+@media screen and (max-width: 980px) {
+  .malcolm-esque, .run-buddy {
+    width: 100%;
+  }
+
+  .the-technocracy {
+    font-size: 40px;
+    flex-wrap: wrap;
+  }
+
+  .the-technocracy .github {
+    padding-bottom: 0;
+  }
+
+  .weather-dashboard {
+    display: block;
+  }
+
+  .malcolm-esque {
+    border-bottom-left-radius: 25% 100%;
+  }
+  
+  .run-buddy {
+    border-top-left-radius: 25% 100%;
+    border-bottom-right-radius: 25% 100%;
+  }
+
+  .skillsContainer img {
+    height: 100px;
+    width: 100px;
+
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .the-technocracy {
+    height: 225px;
+    border-bottom-right-radius: 25% 100%;
+    border-top-left-radius: 25% 100%;
+  }
+
+  .weather-dashboard {
+    display: flex;
+    height: 100px;
+  }
+  
+  .the-technocracy, .weather-dashboard, .malcolm-esque, .run-buddy {
+    width: 100%;
+  }
+
+  .weather-dashboard, .malcolm-esque {
+    border-top-right-radius: 25% 100%;
+    border-bottom-left-radius: 25% 100%;
+  }
+
+}
+
+@media screen and (max-width: 675px) {
+  .mybrary {
+    font-size: 65px;
+  }
+  .mybrary .github {
+    height: 65px;
+  }
+  .skillRow {
+    flex-wrap: wrap;
+  }
+}

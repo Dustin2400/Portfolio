@@ -1,15 +1,27 @@
 # Portfolio
 
-## Purpose
-Show websites I have designed for exposition.
+## Description
+    A single page react driven website designed to show my projects as a web developer.
+  ## Table of Contents
 
-## Built With
+  *[Built With](#built-with)
 
-* HTML
-* CSS
+  *[Links](#links)
 
-## Website
 
-https://dustin2400.github.io/Portfolio/
+  ## Built With
+    * HTML
+    * CSS
+    *JavaScript
+    *React
+  ![screenshot](./src/images/screenshot.png)
+  ![screenshot](./src/images/screenshot1.png)
+  ![screenshot](./src/images/screenshot2.png)
 
-Made with ❤️ by Dustin Grijalva
+  ## Links
+
+  [GitHub](https://github.com/Dustin2400/portfolio)
+
+  [Link](https://dustin2400.github.io/portfolio/)
+##
+  Made with ❤️ by Dustin Grijalva
