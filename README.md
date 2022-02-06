@@ -10,10 +10,10 @@
 
 
   ## Built With
-    * HTML
-    * CSS
-    *JavaScript
-    *React
+   * HTML
+   * CSS
+   * JavaScript
+   * React
   ![screenshot](./src/images/screenshot.png)
   ![screenshot](./src/images/screenshot1.png)
   ![screenshot](./src/images/screenshot2.png)
