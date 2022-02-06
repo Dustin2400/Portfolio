@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio2/static/css/main.164e9538.css",
-    "main.js": "/portfolio2/static/js/main.e51baeaa.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio2/static/js/787.1ed0c42c.chunk.js",
-    "static/media/hero-bg.jpg": "/portfolio2/static/media/hero-bg.000e1b5ff4f0b912c97f.jpg",
-    "static/media/ionic.jpg": "/portfolio2/static/media/ionic.7714bb4317da255ce77e.jpg",
-    "static/media/ya-boy.jpg": "/portfolio2/static/media/ya-boy.53c8a83860afcca697d8.jpg",
-    "static/media/jquery-logo.png": "/portfolio2/static/media/jquery-logo.8eab1eb4c68e05a6da78.png",
-    "static/media/javascript-logo.png": "/portfolio2/static/media/javascript-logo.43666a2e9cf3b3688909.png",
-    "static/media/css3-logo.png": "/portfolio2/static/media/css3-logo.19c8605d6b2861f5fbe0.png",
-    "static/media/linkedin.png": "/portfolio2/static/media/linkedin.c0543f8a1f1f86ab63ac.png",
-    "static/media/graphql-logo.png": "/portfolio2/static/media/graphql-logo.1a0a6c35d293a5a1d8ea.png",
-    "static/media/email-icon.png": "/portfolio2/static/media/email-icon.27b93c776349d9ab01bd.png",
-    "static/media/react-logo.png": "/portfolio2/static/media/react-logo.f3e576ba08e6be927148.png",
-    "static/media/nodejs-logo.png": "/portfolio2/static/media/nodejs-logo.8e341cc00e4ec40c6a27.png",
-    "static/media/node-logo.png": "/portfolio2/static/media/node-logo.1041f6a637f738116386.png",
-    "static/media/github-icon.png": "/portfolio2/static/media/github-icon.987334e9f782cc505f25.png",
-    "static/media/MongoDB-logo.png": "/portfolio2/static/media/MongoDB-logo.b473c1c113167cdfe8b6.png",
-    "index.html": "/portfolio2/index.html",
-    "main.164e9538.css.map": "/portfolio2/static/css/main.164e9538.css.map",
-    "main.e51baeaa.js.map": "/portfolio2/static/js/main.e51baeaa.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio2/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.c44ce09e.css",
+    "main.js": "/Portfolio/static/js/main.ba7dfffc.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hero-bg.jpg": "/Portfolio/static/media/hero-bg.000e1b5ff4f0b912c97f.jpg",
+    "static/media/ionic.jpg": "/Portfolio/static/media/ionic.7714bb4317da255ce77e.jpg",
+    "static/media/ya-boy.jpg": "/Portfolio/static/media/ya-boy.53c8a83860afcca697d8.jpg",
+    "static/media/jquery-logo.png": "/Portfolio/static/media/jquery-logo.8eab1eb4c68e05a6da78.png",
+    "static/media/javascript-logo.png": "/Portfolio/static/media/javascript-logo.43666a2e9cf3b3688909.png",
+    "static/media/css3-logo.png": "/Portfolio/static/media/css3-logo.19c8605d6b2861f5fbe0.png",
+    "static/media/linkedin.png": "/Portfolio/static/media/linkedin.c0543f8a1f1f86ab63ac.png",
+    "static/media/graphql-logo.png": "/Portfolio/static/media/graphql-logo.1a0a6c35d293a5a1d8ea.png",
+    "static/media/email-icon.png": "/Portfolio/static/media/email-icon.27b93c776349d9ab01bd.png",
+    "static/media/react-logo.png": "/Portfolio/static/media/react-logo.f3e576ba08e6be927148.png",
+    "static/media/nodejs-logo.png": "/Portfolio/static/media/nodejs-logo.8e341cc00e4ec40c6a27.png",
+    "static/media/node-logo.png": "/Portfolio/static/media/node-logo.1041f6a637f738116386.png",
+    "static/media/github-icon.png": "/Portfolio/static/media/github-icon.987334e9f782cc505f25.png",
+    "static/media/MongoDB-logo.png": "/Portfolio/static/media/MongoDB-logo.b473c1c113167cdfe8b6.png",
+    "index.html": "/Portfolio/index.html",
+    "main.c44ce09e.css.map": "/Portfolio/static/css/main.c44ce09e.css.map",
+    "main.ba7dfffc.js.map": "/Portfolio/static/js/main.ba7dfffc.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.164e9538.css",
-    "static/js/main.e51baeaa.js"
+    "static/css/main.c44ce09e.css",
+    "static/js/main.ba7dfffc.js"
   ]
 }
