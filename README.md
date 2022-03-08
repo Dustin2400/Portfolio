@@ -22,6 +22,6 @@
 
   [GitHub](https://github.com/Dustin2400/portfolio)
 
-  [Link](https://dustin2400.github.io/portfolio/)
+  [Link](https://dustin2400.github.io/Portfolio/)
 ##
   Made with ❤️ by Dustin Grijalva

@@ -64,7 +64,7 @@ function App() {
             <h2>About Me</h2>
             <div className="platform, about-me">
               <img src={require('./images/ya-boy.jpg')} alt="Dustin Grijalva" className="ya-boy"></img>
-              <p className="blurb">I am a full stack web developer leveraging an education background to create intuitive, innovative, and inspirational web design. I am currently earning a certificate in full stack web development for the University of Texas. I am proficient in HTML, CSS, JavaScript, Node.js, SQL, MongoDB, and React. I face challenges with zeal and fortitude, thrive in fast-paced environments and high pressure situations, and cooperate swimmingly with colleagues. I am eager to work collaboratively to find creative solutions generating influential projects.</p>
+              <p className="blurb">I am a full stack web developer leveraging an education background to create intuitive, innovative, and inspirational web design. I have earned a certificate in full stack web development from the University of Texas. I am proficient in HTML, CSS, JavaScript, Node.js, SQL, MongoDB, and React. I face challenges with zeal and fortitude, thrive in fast-paced environments and high pressure situations, and cooperate swimmingly with colleagues. I am eager to work collaboratively to find creative solutions generating influential projects.</p>
             </div>
           </div>
         )}
