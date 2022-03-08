@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.c44ce09e.css",
-    "main.js": "/Portfolio/static/js/main.ba7dfffc.js",
+    "main.js": "/Portfolio/static/js/main.a387ad36.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/hero-bg.jpg": "/Portfolio/static/media/hero-bg.000e1b5ff4f0b912c97f.jpg",
     "static/media/ionic.jpg": "/Portfolio/static/media/ionic.7714bb4317da255ce77e.jpg",
@@ -19,11 +19,11 @@
     "static/media/MongoDB-logo.png": "/Portfolio/static/media/MongoDB-logo.b473c1c113167cdfe8b6.png",
     "index.html": "/Portfolio/index.html",
     "main.c44ce09e.css.map": "/Portfolio/static/css/main.c44ce09e.css.map",
-    "main.ba7dfffc.js.map": "/Portfolio/static/js/main.ba7dfffc.js.map",
+    "main.a387ad36.js.map": "/Portfolio/static/js/main.a387ad36.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c44ce09e.css",
-    "static/js/main.ba7dfffc.js"
+    "static/js/main.a387ad36.js"
   ]
 }
